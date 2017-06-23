@@ -1,6 +1,6 @@
 <project>
-  <modelVersion>0.0.1</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
   <groupId>int.clever-age.functionnalTestDemo</groupId>
   <artifactId>functionnalDemo</artifactId>
-  <version>1</version>
+  <version>0.0.1</version>
 </project>
