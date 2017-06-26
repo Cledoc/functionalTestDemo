@@ -3,4 +3,8 @@
   <groupId>int.clever-age.functionnalTestDemo</groupId>
   <artifactId>functionnalDemo</artifactId>
   <version>0.0.1</version>
+  <build>
+   <testSourceDirectory>${basedir}/src/test/</testSourceDirectory>
+   <testOutputDirectory>${basedir}/target/test</testOutputDirectory>
+ </build>
 </project>
